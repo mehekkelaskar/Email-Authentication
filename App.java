@@ -38,7 +38,7 @@ Session session=Session.getInstance(properties, new Authenticator() {
 	@Override
 	protected PasswordAuthentication getPasswordAuthentication() {
 		// TODO Auto-generated method stub
-		return  new PasswordAuthentication("piku12642@gmail.com","notv bynq qyye dkjy");
+		return  new PasswordAuthentication("piku12642@gmail.com","ur password here ");
 	}
 	
 });
